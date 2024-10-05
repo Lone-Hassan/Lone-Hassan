@@ -2,8 +2,8 @@
 
 - 😊Studied Computer Science at Lund university Sweden
 - 🔭 I’m currently working on ... OrangeHRM(Open source HR-Management webApp) Test Automation Project
-- 🌱 I’m currently learning ... Software Testing 
-- 👯 I’m looking to collaborate on ... Software Testing projects
+- 🌱 I’m currently learning ... Software Testing Automation
+- 👯 I’m looking to collaborate on ... Software Testing projects (Web Automation, Api Automation or Mobile Automation)
 - 🤔 I’m looking for help with ... How to excel and flourish in software testing.
 - 💬 Ask me about ... 
 - 📫 How to reach me: ... lone.hassan@gmail.com
