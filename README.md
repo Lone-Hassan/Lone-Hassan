@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... Data Science and Machine Learning
 - 👯 I’m looking to collaborate on ... Data Science projects (Data wrangling, Evaluation, predictions)
-- 🤔 I’m looking for help with ... How to excel and flourish in software testing.
+- 🤔 I’m looking for help with ... How to excel and flourish in Data Science and Artifical Inteligence.
 - 💬 Ask me about ... 
 - 📫 How to reach me: ... lone.hassan@gmail.com
 - 😄 Pronouns: ... He/They
